@@ -1,4 +1,4 @@
-module test-soft-weather
+module github.com/web-dev137/test-soft-weather
 
 go 1.20
 
